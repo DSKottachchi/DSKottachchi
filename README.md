@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working at WSO2 as a Software Engineer 
 - 💬 Ask me about anything 
+- 📫 How to reach me dskottachchi@outlook.com
+- 🌱 I’m currently learning DevOps
 
 
 
