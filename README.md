@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dilmi Kottachchi</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 
-<h3 align="left">Connect with me:</h3>
+#### Hi! I'm Dilmi and I'm passionately curious. Fascinated with the idea of using software to solve practical problems. This career path is a never-ending puzzle that I passionately engage in and I believe in the power of programming to transform and improve the lives of people around the world.
+
+- 🔭 I’m currently working at WSO2 as a Software Engineer 
+- 💬 Ask me about anything 
+
 <p align="left">
 </p>
 
